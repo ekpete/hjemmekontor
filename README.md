@@ -1,2 +1,2 @@
 # hjemmekontor
-iOS to help with productivity.
+iOS app to help with productivity.
